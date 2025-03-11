@@ -110,10 +110,4 @@ Have suggestions or need help? Here’s how you can get involved:
 
 ---
 
-## 📧 Contact Us
-
-For additional support, join our community on [Telegram](https://t.me/beautiful_world_haha) or reach out via GitHub discussions.
-
----
-
 Unleash the power of **Raydium Sniper Bot** today and redefine your trading experience!
