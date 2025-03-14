@@ -32,5 +32,5 @@ async function start() {
   streamOpenbook(client);
 
 }
-//this is main function
+//this is main
 start();
